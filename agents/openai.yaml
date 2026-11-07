@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 教程剪辑工作流"
+  short_description: "核对素材、同步口播与录屏，并完成 Blender 剪辑交付"
+  default_prompt: "Use $blender-tutorial-editing-pipeline to review my materials and edit this tutorial in Blender."
